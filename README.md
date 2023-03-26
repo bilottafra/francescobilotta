@@ -1,7 +1,7 @@
 
 ### Hi, I'm Francesco 👋🏻
 ---
-<img src="https://raw.githubusercontent.com/francescobilotta/francescobilotta/main/banner-github-v2.png" />
+<img src="https://raw.githubusercontent.com/francescobilotta/francescobilotta/main/banner-github-v3.png" />
 
 ---
 
